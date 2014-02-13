@@ -1,0 +1,102 @@
+# view AndroidManifest.xml #generated:30
+-keep class org.geometerplus.android.fbreader.ArabicReader { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class org.geometerplus.android.fbreader.ArabicReaderApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class org.geometerplus.android.fbreader.BookmarkEditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class org.geometerplus.android.fbreader.BookmarksActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class org.geometerplus.android.fbreader.CancelActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class org.geometerplus.android.fbreader.TOCActivity { <init>(...); }
+
+# view res/layout/navigate.xml #generated:19
+-keep class org.geometerplus.android.fbreader.ToutchableReverseSeekBar { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class org.geometerplus.android.fbreader.api.ApiService { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class org.geometerplus.android.fbreader.error.BookReadingErrorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class org.geometerplus.android.fbreader.image.ImageViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class org.geometerplus.android.fbreader.library.BookInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:97
+-keep class org.geometerplus.android.fbreader.library.KillerCallback { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class org.geometerplus.android.fbreader.library.LibraryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class org.geometerplus.android.fbreader.library.LibrarySearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class org.geometerplus.android.fbreader.libraryService.LibraryService { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class org.geometerplus.android.fbreader.network.AddCatalogMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class org.geometerplus.android.fbreader.network.AddCustomCatalogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class org.geometerplus.android.fbreader.network.AuthenticationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class org.geometerplus.android.fbreader.network.AuthorizationMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class org.geometerplus.android.fbreader.network.BookDownloader { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class org.geometerplus.android.fbreader.network.BookDownloaderService { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class org.geometerplus.android.fbreader.network.BuyBooksActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class org.geometerplus.android.fbreader.network.ListenerCallback { <init>(...); }
+
+# view AndroidManifest.xml #generated:208
+-keep class org.geometerplus.android.fbreader.network.NetworkBookInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:170
+-keep class org.geometerplus.android.fbreader.network.NetworkLibraryPrimaryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class org.geometerplus.android.fbreader.network.NetworkLibrarySecondaryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class org.geometerplus.android.fbreader.network.NetworkSearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class org.geometerplus.android.fbreader.network.TopupMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class org.geometerplus.android.fbreader.preferences.EditBookInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class org.geometerplus.android.fbreader.preferences.PreferenceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:221
+-keep class org.geometerplus.android.fbreader.tips.TipsActivity { <init>(...); }
+
+# view res/layout/main_fbreader.xml #generated:8
+-keep class org.geometerplus.zlibrary.ui.android.view.ZLAndroidWidget { <init>(...); }
+
